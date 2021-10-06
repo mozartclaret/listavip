@@ -1,7 +1,7 @@
 package com.projeto1.maven.eclipse;
 
 /**
- * Hello world!
+ * Hello world alterado!
  *
  */
 public class App 
