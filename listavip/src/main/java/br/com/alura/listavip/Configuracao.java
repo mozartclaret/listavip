@@ -1,3 +1,4 @@
+/**** Configuração de conexão ******/
 package br.com.alura.listavip;
 
 import javax.sql.DataSource;
